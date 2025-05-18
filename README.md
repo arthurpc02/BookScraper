@@ -4,6 +4,13 @@ Scraping a book store website: https://books.toscrape.com/.
 Based on https://realpython.com/web-scraping-with-scrapy-and-mongodb/.
 
 ## Dev - Useful commands and information:
+
+### Scrapy
+start scraping books:
+
+    scrapy crawl book
+
+
 ### MongoDB
 docker image:
 
